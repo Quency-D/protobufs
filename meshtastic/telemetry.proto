@@ -888,9 +888,9 @@ enum TelemetrySensorType {
   MMC5983MA = 52;
 
   /*
-   * ICM-42670-P 6‑Axis IMU
+   * ICM-42607-P 6‑Axis IMU
    */
-  ICM42670P = 53;
+  ICM42607P = 53;
 }
 
 /*
